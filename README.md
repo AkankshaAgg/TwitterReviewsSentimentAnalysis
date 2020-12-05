@@ -1,6 +1,6 @@
 # TwitterReviewsSentimentAnalysis
 
-Sentiment analysis of twitter reviews using NLP with BERT.Positive (1) or Negative (0) in terms of feeling. 
+Sentiment analysis of twitter reviews using NLP with BERT. Positive (1) or Negative (0) in terms of feeling. 
 CNN is used for classification. Also, different tools that we have with bert are: 
 1. Bert tokenizer 
 2. Bert as an embedder
